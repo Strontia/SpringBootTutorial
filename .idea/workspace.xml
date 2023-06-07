@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b1889dd-2499-4280-bb77-8dc995d175a4" name="Changes" comment="" />
+    <list default="true" id="6b1889dd-2499-4280-bb77-8dc995d175a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ygsoft/boot/bean/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ygsoft/boot/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ygsoft/boot/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resource/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ygsoft/boot/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ygsoft/boot/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resource/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resource/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ygsoft/boot/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ygsoft/boot/MainApplication.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -27,6 +38,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="/usr/local/apache-maven-3.8.8" />
+        <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="/usr/local/apache-maven-3.8.8/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -46,15 +58,14 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "/Users/wpw/Documents/gitProjects/远光软件/SpringBootTutorial",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "MavenSettings",
     "spring.configuration.checksum": "0d5c3c31016c4fb9deb85f064ca10056"
   }
 }]]></component>
@@ -89,7 +100,9 @@
       <workItem from="1686016337547" duration="3052000" />
       <workItem from="1686020018221" duration="6451000" />
       <workItem from="1686034750343" duration="5848000" />
-      <workItem from="1686103984012" duration="426000" />
+      <workItem from="1686103984012" duration="696000" />
+      <workItem from="1686104696677" duration="238000" />
+      <workItem from="1686104954032" duration="15011000" />
     </task>
     <servers />
   </component>
@@ -106,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
